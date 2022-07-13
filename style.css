@@ -1,0 +1,34 @@
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    display: flex;
+
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+#Full-Stack-Developer{
+    width: 50%;
+    box-shadow: 10px 10px 7px gray;
+    margin: 0 5%;
+    border-radius: 10px;
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+}
+#Baby-Web-Developer{
+    width: 50%;
+    box-shadow: 10px 10px 7px gray;
+    margin: 0 5%;
+    border-left: 5px solid rgb(8, 4, 236);
+    border-radius: 10px;
+    padding-left: 10px;
+}
+h2{
+    font-size: 42px;
+}
